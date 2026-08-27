@@ -1,0 +1,24 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mex*
+
+# MATLAB generated files
+*.mat
+*.fig
+*.slx
+*.slxc
+
+# Generated results
+results/
+*.png
+*.csv
+*.xlsx
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
